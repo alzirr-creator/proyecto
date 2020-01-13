@@ -1,0 +1,129 @@
+.navbar{
+  height: 70px;
+  
+}
+
+#testimonio1{
+ 
+    padding-top: 50px;
+    padding-right: 0;
+    padding-bottom: 30px;
+    padding-left: 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#testimonio2{
+ 
+    padding-top: 50px;
+    padding-right: 0;
+    padding-bottom: 30px;
+    padding-left: 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#testimonio3{
+ 
+    padding-top: 50px;
+    padding-right: 0;
+    padding-bottom: 30px;
+    padding-left: 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#testimonio4{
+    padding-top: 50px;
+    padding-right: 0;
+    padding-bottom: 30px;
+    padding-left: 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#testi{
+  margin-top: 110px;
+}
+
+header{
+    margin-top: 110px;
+}
+
+#info1{
+  margin-top: 110px;
+}
+
+#contacto{
+  margin-top: 90px;
+}
+
+
+#redes-sociales {
+   
+    padding-top: 50px;
+    background-color: #194e86;
+}
+
+footer {
+  color: white;
+}
+footer h3 {
+  margin-bottom: 30px;
+}
+footer .footer-above {
+  padding-top: 50px;
+  background-color: rgb(63, 134, 204);
+}
+footer .footer-col {
+  margin-bottom: 50px;
+}
+footer .footer-below {
+  padding: 25px 0;
+  background-color: #4386ce;
+}
+
+#insta{
+  width: 10%;
+}
+#fb{
+  width: 10%;
+}
+#wsp{
+  width: 10%;
+}
+
+
+#frase{
+  
+  padding-top: 50px;
+    padding-right: 0;
+    padding-bottom: 30px;
+    padding-left: 0;
+    text-align: center;
+    margin-top: 40px;
+}
+#formbutton{
+  float: right;
+  width: 450px;
+  
+}
+
+
+body{ background: #ffffff;color:black;}
+
+info1{background: #ffffff; color:black;}
+info2{transition:0.5s; background: #ffffff; color:black;}
+frase{transition:0.5s;background:  #f1f1f1; color:rgb(0, 0, 0);}
+
+
+.black{background:#212121; color:white;}
+.black3{background:#444; color:rgb(253, 242, 242);}
+.black4{background:rgb(185, 185, 185);color:rgb(247, 247, 247);}
+
+
+
+
+
+
+
